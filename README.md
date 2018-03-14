@@ -19,3 +19,7 @@ error "UnicodeEncodeError: 'charmap' codec can't encode characters in position 8
 *  mobilescanner_partialform.py - Contains code for joining partial forms. This file imports panorama.py which is adapted from https://compvisionlab.wordpress.com/2013/05/13/image-blending-using-pyramid/
 * panorama.py - Contains code for image blending
 
+### Detailed Analysis ###
+For more details check out below files under src: 
+Detailed report: Ananya Mukherjee Final.pdf
+Slides: Mobile Image Scanner.pptx
