@@ -10,7 +10,7 @@
 
 This code runs on Python 2. It also uses libraries like sklearn, skimage, OpenCV
 
-### How to run the code###
+### How to run the code ###
 
 * mobilescanner_final_curr.py - Main file
 * basicscan.py - Run this file to see the basic scan output. I have set display=False in mobilescanner_final_curr.py (line 14). If we set display=True in mobilescanner_final_curr.py (line 14) we can see the intermediate step outputs.
